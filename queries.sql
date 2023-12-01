@@ -1,5 +1,16 @@
 
+
 -- SETUP --
+DROP TABLE IF EXISTS countries;
+  
+  create table countries (
+  id serial primary key,
+  country_code char(2),
+  country_name varchar(100)
+  );
+
+--   Now right-click on the countries table and import the countries file above (make sure that the headers section is on).
+
 
 DROP TABLE IF EXISTS visited_countries, users;
 
@@ -15,13 +26,3 @@ country_code CHAR(2) NOT NULL,
 user_id INTEGER REFERENCES users(id)
 );
 
-INSERT INTO users (name, color)
-VALUES ('Angela', 'teal'), ('Jack', 'powderblue');
-
-INSERT INTO visited_countries (country_code, user_id)
-VALUES ('FR', 1), ('GB', 1), ('CA', 2), ('FR', 2 );
-
-SELECT *
-FROM visited_countries
-JOIN users
-ON users.id = user_id;
