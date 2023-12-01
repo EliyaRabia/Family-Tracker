@@ -4,10 +4,10 @@
 This site will help your family to keep tracking of all the places you've visited.
 You can add the name of the country you were in and it will be saved and displayed on the screen on the geographical map.
 
-<img width="500" alt="Screenshot 2023-12-01 093904" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/aeb1fda6-03a1-499b-966b-86b87901e0c8">
-<img width="500" alt="Screenshot 2023-12-01 093846" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/64b09f54-bd3c-496f-8ad5-624c53935568">
-<img width="500" alt="Screenshot 2023-12-01 093823" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/7615bc73-d064-4a49-a9d9-83260724b4f6">
-<img width="500" alt="Screenshot 2023-12-01 093754" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/cfebd719-fd34-4cdd-b362-a01f840d41bc">
+<img width="400" alt="Screenshot 2023-12-01 093904" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/aeb1fda6-03a1-499b-966b-86b87901e0c8">
+<img width="400" alt="Screenshot 2023-12-01 093846" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/64b09f54-bd3c-496f-8ad5-624c53935568">
+<img width="400" alt="Screenshot 2023-12-01 093823" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/7615bc73-d064-4a49-a9d9-83260724b4f6">
+<img width="400" alt="Screenshot 2023-12-01 093754" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/cfebd719-fd34-4cdd-b362-a01f840d41bc">
 
 
 
