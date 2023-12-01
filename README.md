@@ -26,7 +26,7 @@ You can add the name of the country you were in and it will be saved and display
 
 - and write the following commands in the queries.sql file.
 
-# start your game
+# start your app
 - open the terminal and write the following orders:
 - cd space and drag the folder that you made and enter.
 - npm i 
