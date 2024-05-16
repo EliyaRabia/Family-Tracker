@@ -3,6 +3,20 @@
 # About:
 This site will help your family to keep tracking of all the places you've visited.
 You can add the name of the country you were in and it will be saved and displayed on the screen on the geographical map.
+# options:
+
+
+## Add family member
+By clicking on the Add Family Member button at the top of the screen the new user page will open.
+On the new user page, you will choose your color and name and you will be ready to track your travel.
+
+
+## Add visited country
+By clicking on the country on the global map or writing the country name in the text bar then clicking on Add button the specific country <br/>
+will be selected by your chosen color.
+
+## Switch members
+You can also see your other family tracker if you want by simply clicking on their names at the top of the screen.
 
 <img width="400" alt="Screenshot 2023-12-01 093904" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/aeb1fda6-03a1-499b-966b-86b87901e0c8">
 <img width="400" alt="Screenshot 2023-12-01 093846" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/64b09f54-bd3c-496f-8ad5-624c53935568">
