@@ -12,8 +12,7 @@ On the new user page, you will choose your color and name and you will be ready 
 
 
 ## Add visited country
-By clicking on the country on the global map or writing the country name in the text bar then clicking on Add button the specific country <br/>
-will be selected by your chosen color.
+By clicking on the country on the global map or writing the country name in the text bar then clicking on Add button the specific country will be selected by your chosen color.
 
 ## Switch members
 You can also see your other family tracker if you want by simply clicking on their names at the top of the screen.
