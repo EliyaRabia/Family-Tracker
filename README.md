@@ -10,7 +10,7 @@ You can add the name of the country you were in and it will be saved and display
 <img width="400" alt="Screenshot 2023-12-01 093754" src="https://github.com/EliyaRabia/FamilyTravelTracker/assets/87569799/cfebd719-fd34-4cdd-b362-a01f840d41bc">
 
 
-# options
+# Options
 
 
 ## Add family member
@@ -42,7 +42,7 @@ You can also see your other family tracker if you want by simply clicking on the
 
 - and write the following commands in the queries.sql file.
 
-# start your app
+# Start your app
 - open the terminal and write the following orders:
 - cd space and drag the folder that you made and enter.
 - npm i 
